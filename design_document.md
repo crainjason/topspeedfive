@@ -1,21 +1,21 @@
 # Summary
-Take the summary from the README and put it here.
+topspeedfive is a place for pedestrians to find paths, apps, meetups, tips, tricks, secrets, articles, photos, videos and, most importantly, other humans for long distance walking. 
 
 ## Inspiration
-In no particular order, Diogenes, Edward Payson Weston, and defenders of the right to roam.
+In no particular order, Diogenes, Edward Payson Weston, William "Upski" Wimsatt, Nimblewill Nomad, Werner Herzog, Patrick Leigh Fermor (probably) and defenders of the right to roam.
 
-The best exercise is nearby and is challenging. That's walking. What is an interesting competitive wager? Who can walk across the US the fastest. Where should one be able to travel? Wherever one may walk and no damage.
-
-> [!NOTE]
-> Walking is political. We don't hide from that.
+The best exercise is nearby and is challenging. That's walking. What is an interesting competitive wager? Who can walk across the US the fastest. Where should one travel? Wherever one may walk safely.
 
 ## Target Audience
-People who enjoy distance walking and are looking for resources. People who walk to work or in the park. People who walk town to town. People who walk across countries. People who wander and people who beeline straight for the target. People in wheelchairs, with crutches, etc., are welcome.
+People who enjoy distance walking and are looking for resources. People who walk to work or in the park. People who walk town to town. People who walk across countries. People who wander and people who beeline straight for the target. People in wheelchairs, with crutches, etc.
 
 People who walk for distance for any reason.
 
 > [!IMPORTANT]
 > People without feet can walk.
+
+> [!IMPORTANT]
+> Walking is political.
 
 # Concept
 
