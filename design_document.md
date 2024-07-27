@@ -6,16 +6,16 @@ In no particular order, Diogenes, Edward Payson Weston, and defenders of the rig
 
 The best exercise is nearby and is challenging. That's walking. What is an interesting competitive wager? Who can walk across the US the fastest. Where should one be able to travel? Wherever one may walk and no damage.
 
-[!NOTE]
-Walking is political. We don't hide from that.
+> [!NOTE]
+> Walking is political. We don't hide from that.
 
 ## Target Audience
 People who enjoy distance walking and are looking for resources. People who walk to work or in the park. People who walk town to town. People who walk across countries. People who wander and people who beeline straight for the target. People in wheelchairs, with crutches, etc., are welcome.
 
 People who walk for distance for any reason.
 
-[!IMPORTANT]
-People without feet can walk.
+> [!IMPORTANT]
+> People without feet can walk.
 
 # Concept
 
