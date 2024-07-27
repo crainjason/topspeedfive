@@ -23,13 +23,12 @@ People who walk for distance for any reason.
 People should be able to find the website easily and use it as a trailhead to other resources for distance walkers. We should have a Discord for conversation and announcements. Maps will likely feature heavily, as well as applications that allow us to modify maps.
 
 ## Founding Principals
-- Anyone can walk long distances.
 - Everyone should walk long distances occasionally.
 - Distance walking is difficult.
-- Long is a relative term.
+- Carrying 50lbs of shit is not required.
+- Walking is the best way to visit.
 - You don't need feet to walk.
 - Competition can be fun, if you're not a dick about it.
-- David Goggins wouldn't like it here.
 
 ## Critical Features
 | Feature | Short Description |
