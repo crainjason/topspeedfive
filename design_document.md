@@ -1,8 +1,8 @@
 # Summary
-topspeedfive is a place for pedestrians to find paths, apps, meetups, tips, tricks, secrets, articles, photos, videos and, most importantly, other humans for long distance walking. 
+**topspeedfive** is a place for pedestrians to find paths, apps, meetups, tips, tricks, secrets, articles, photos, videos and, most importantly, other humans for long distance walking.
 
 ## Inspiration
-In no particular order, Diogenes, Edward Payson Weston, William "Upski" Wimsatt, Nimblewill Nomad, Werner Herzog, Patrick Leigh Fermor (probably) and defenders of the right to roam.
+In no particular order, Diogenes, Edward Payson Weston, William "Upski" Wimsatt, Nimblewill Nomad, Werner Herzog, Patrick Leigh Fermor (probably) and defenders of [the right to roam][roam].
 
 The best exercise is nearby and is challenging. That's walking. What is an interesting competitive wager? Who can walk across the US the fastest. Where should one travel? Wherever one may walk safely.
 
@@ -39,3 +39,6 @@ People should be able to find the website easily and use it as a trailhead to ot
 | Apps | Collection of apps for walkers |
 | Media | Writing, photo essays., etc. |
 | News | About walking related topics |
+| FAQ | Tools to help onboard the curious |
+
+[roam]: https://en.wikipedia.org/wiki/Freedom_to_roam
