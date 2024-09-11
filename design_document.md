@@ -1,6 +1,8 @@
 # Summary
 **topspeedfive** is a place for pedestrians to find paths, apps, meetups, tips, tricks, secrets, articles, photos, videos and, most importantly, other humans for long distance walking.
 
+Our main goal is to connect a wide variety of pedestrian organizations and initiatives, making them available to casual and serious web audiences.
+
 ## Inspiration
 In no particular order, Diogenes, Edward Payson Weston, Nimblewill Nomad, Werner Herzog, Patrick Leigh Fermor (probably) and defenders of [the right to roam][roam].
 
